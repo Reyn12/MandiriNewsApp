@@ -92,7 +92,7 @@
             android:layout_height="wrap_content"
             android:layout_marginStart="7dp"
             android:layout_marginEnd="7dp"
-            android:text="Ya allah Cape"
+            android:text="Berita Terkini"
             android:textColor="@color/colorPrimaryDark" />
 
         <TextView
@@ -100,7 +100,7 @@
             android:layout_height="wrap_content"
             android:layout_marginStart="7dp"
             android:layout_marginEnd="7dp"
-            android:text="Pengen Turuu"
+            android:text="Most Popular"
             android:textColor="@color/colorPrimaryDark" />
 
     </LinearLayout>
